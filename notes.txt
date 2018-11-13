@@ -1,0 +1,4 @@
+This project is taken from here: https://www.alexedwards.net/blog/serving-static-sites-with-go
+
+The goal is to create a simple lightweight web server to serve a bunch of static pages
+
